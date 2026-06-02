@@ -1,0 +1,3 @@
+AML Policy Summary:
+Anti-Money Laundering monitoring should flag unusual transaction patterns, high-value transfers, repeated cash-out activity, suspicious timing, and transactions inconsistent with customer history.
+High-risk alerts should be reviewed by compliance analysts. Important signals include large transaction amounts, abnormal account balance movement, unusual locations, and transaction splitting.

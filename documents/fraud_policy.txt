@@ -1,0 +1,3 @@
+Fraud Investigation Policy:
+A transaction may be marked suspicious when risk indicators include high amount, unusual transaction type, zero or low remaining balance, late-night transaction time, or sudden destination balance change.
+Investigation reports should include transaction ID, risk score, reason for alert, recommended action, and compliance notes.

@@ -1,0 +1,3 @@
+KYC Policy Summary:
+Know Your Customer checks verify customer identity, address, risk profile, and transaction behavior. If a transaction appears inconsistent with the customer's expected profile, it should be reviewed.
+Missing or weak KYC increases compliance risk. Transaction monitoring should be combined with customer identity and historical behavior.
