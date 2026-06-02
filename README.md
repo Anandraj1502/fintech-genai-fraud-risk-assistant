@@ -1,5 +1,10 @@
 # AI-Powered FinTech Fraud Risk & Compliance Assistant
 
+## Live App
+
+https://fintech-genai-fraud-risk-assistant-anand.streamlit.app/
+
+
 This is an advanced LLM / GenAI FinTech project for fraud detection, risk explanation, compliance Q&A, dashboard analytics, and PDF report generation.
 
 ## Features
